@@ -1,5 +1,5 @@
 # AGE-AND-GENDER-PREDICTION-WITH-DEEP-LEARNING
-  Bu proje derin öğrenme ile insanların yaş ve cinsiyetlerini tahmin eder. 
+  Bu projenin amacı derin öğrenme ile insanların yaş ve cinsiyetlerini tahmin etmektir. 
   
   Projeyi yapmak için;
   
